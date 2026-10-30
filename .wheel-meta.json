@@ -1,0 +1,22 @@
+{
+  "wheel_id": 557,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-bathrenovationmelbourne-com-au-150",
+  "project": "bath-renovation-melbourne-af47b53e1610f6692f233100887e00795b7a0",
+  "parent_t1_ref": "ext-db-t1-bathrenovationmelbourne-com-au",
+  "node_role": "buffer",
+  "money_target": "bathrenovationmelbourne.com.au",
+  "primary_kw": "bath renovation melbourne",
+  "intended_url": "https://sites-e470-2.web.app/bath-renovation-melbourne-af47b53e1610f6692f233100887e00795b7a0/",
+  "tier": "T2",
+  "writeback_nonce": "b4a81379589f3710",
+  "links": [
+    {
+      "target_url": "https://bathrenovationmelbourne-com-au-guide.sitesaugpt.chatgpt.site/",
+      "anchor": "Bath Renovation Melbourne Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
